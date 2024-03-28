@@ -1,0 +1,2 @@
+pitted_surface 1 1 199 199
+pitted_surface 55 1 124 25

@@ -1,0 +1,9 @@
+open 487 117 546 148
+mousebite 129 190 160 219
+spur 49 149 84 178
+pin-hole 96 51 149 94
+copper 247 258 278 310
+copper 464 375 509 432
+pin-hole 222 430 260 460
+mousebite 108 254 141 285
+pin-hole 257 27 308 56

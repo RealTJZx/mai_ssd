@@ -1,0 +1,2 @@
+pitted_surface 60 6 198 198
+pitted_surface 2 2 50 194

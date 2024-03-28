@@ -1,0 +1,8 @@
+short 343 52 368 113
+open 193 40 227 83
+mousebite 264 59 296 84
+copper 200 6 233 34
+pin-hole 175 120 209 146
+mousebite 440 58 472 83
+mousebite 564 117 592 143
+mousebite 582 24 612 51

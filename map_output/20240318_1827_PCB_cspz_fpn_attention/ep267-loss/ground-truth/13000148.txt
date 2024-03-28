@@ -1,0 +1,4 @@
+mousebite 187 241 229 272
+spur 432 189 469 217
+pin-hole 351 173 391 213
+mousebite 323 482 353 526

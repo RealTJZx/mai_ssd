@@ -1,0 +1,7 @@
+mousebite 527 205 566 265
+short 211 200 250 228
+mousebite 52 202 83 228
+mousebite 334 145 369 175
+spur 248 77 282 102
+copper 302 179 337 211
+pin-hole 487 226 518 256

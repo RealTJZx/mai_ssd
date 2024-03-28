@@ -1,0 +1,1 @@
+pitted_surface 8 13 195 197

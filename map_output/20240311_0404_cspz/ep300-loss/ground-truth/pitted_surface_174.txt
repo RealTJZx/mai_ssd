@@ -1,0 +1,4 @@
+pitted_surface 1 1 184 153
+patches 174 46 200 115
+patches 37 173 95 200
+patches 102 149 153 200

@@ -1,0 +1,4 @@
+scratches 87 1 128 199
+inclusion 52 83 66 120
+inclusion 19 112 39 189
+inclusion 179 71 195 156
